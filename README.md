@@ -2,3 +2,4 @@
 This is my source code for the Udemy React-Redux course with Stephen Grinder
 
 ## Notes and thoughts 
+- 
